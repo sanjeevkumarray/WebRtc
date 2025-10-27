@@ -1,4 +1,3 @@
-Here’s your content rewritten at a **professional GitHub README level**, keeping your exact meaning intact but improving tone, flow, and formatting for clarity and readability 👇
 
 ---
 
@@ -177,7 +176,7 @@ You have now implemented a **WebRTC one-to-one live streaming system** with:
 
 🎉 You have successfully implemented **WebRTC** and established a functional one-to-one live video streaming system.
 
-<img width="1058" height="516" alt="Screenshot 2025-10-27 174854" src="https://github.com/user-attachments/assets/b16959bb-0dad-4c64-aa28-5a6f8b8de48a" />
+![WhatsApp Image 2025-10-27 at 17 49 44_0fe4a665](https://github.com/user-attachments/assets/4e55aca1-8f9a-4b01-995c-e8421986f99f)
 
 <img width="1261" height="554" alt="Screenshot 2025-10-27 173044" src="https://github.com/user-attachments/assets/b59e78a4-03e7-4382-9019-52dbc74bc5af" />
 
