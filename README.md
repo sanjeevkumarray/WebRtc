@@ -9,7 +9,8 @@ A hands-on implementation of **WebRTC** for one-to-one real-time video streaming
 
 ## ⚡ Quick Summary of Steps
 
-![Screenshot 2024-05-05 at 7 14 38 PM](#)
+<img width="2060" height="1336" alt="image" src="https://github.com/user-attachments/assets/a71e1c64-7b7a-47ab-a3fd-3fb13d5843b3" />
+
 
 ### 🧩 Creating the Signalling Server
 
